@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there. I am Ankush Kumar. 👋
+[![Ankush's github stats](https://github-readme-stats.vercel.app/api?username=ankuuush)](https://github.com/ankuuush/github-readme-stats)
+
 [![@ankuuush's Holopin board](https://holopin.me/ankuuush)](https://holopin.io/@ankuuush)
 
 <!--
